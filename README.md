@@ -1,13 +1,13 @@
 ## Laravel Complete Quiz Management System
 Laravel Complete Quiz Management System With Admin Panel and Middleware
 - Laravel Latest Version 8
-## How to run
+## Installation
 
-- Clone the repository with git clone
-- Copy .env.example file to .env and edit database credentials there
+- Clone the repository with `git clone`
+- Run `copy .env.example to .env` to copy the .env file
+- Edit database credentials in .env file
 - Run composer install
 - Run php artisan key:generate
-- Set the env file
 - Create Database
 - Upload the Database From database/dump/laravelmcqs.sql
 - for admin default credentials admin@admin.com - 12345678
